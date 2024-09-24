@@ -6,6 +6,7 @@ for i in range(a):
     departure=input("enter the departing station: ")
     arrival=input("enter the arriving station: ")
     gender=input("enter the gender of the passenger: ")
+    print("hi")
 print("name of the passenger: ",name)
 print("date of the reservation: ",date)
 print("enter the age of the passenger: ",age)
